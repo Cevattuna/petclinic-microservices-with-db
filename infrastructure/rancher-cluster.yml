@@ -1,6 +1,11 @@
 nodes:
+<<<<<<< Updated upstream
   - address: 172.31.8.68
     internal_address: 172.31.8.68
+=======
+  - address: 172.31.10.100
+    internal_address: 172.31.10.100
+>>>>>>> Stashed changes
     user: ubuntu
     role:
       - controlplane
